@@ -1,0 +1,20 @@
+---
+title: "921"
+---
+
+This is a Quarto website.
+
+To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
+
+```{r}
+library(babynames)
+library(leaflet)
+library(mapdeck)
+library(shiny)
+library(tidyverse)
+library(troopdata)
+library(usethis)
+```
+
+
+[My CV](cv.doc)
