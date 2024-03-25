@@ -16,5 +16,4 @@ library(troopdata)
 library(usethis)
 ```
 
-
-[My CV](cv.doc)
+[My CV](cv.docx)
